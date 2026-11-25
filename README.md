@@ -1,12 +1,13 @@
 # Jornada de programação
 
-Sou Lucas Nascimento, estudante de Análise e Desenvolvimento de Sistemas. Este repositório registra minha evolução em lógica de programação, JavaScript e desenvolvimento web, construindo uma base para avançar em backend.
+Sou Lucas Nascimento, estudante de Análise e Desenvolvimento de Sistemas. Este repositório registra minha evolução em lógica de programação, Python e JavaScript, com exercícios práticos e explicações do que estou aprendendo.
 
 ## Estudos publicados
 
 | Atividade | Conteúdo | Situação |
 | --- | --- | --- |
-| [Lição 01](dia-01-variaveis/) | Variáveis, tipos de dados, reatribuição e console.log | Concluída e revisada |
+| [Lição 01 — JavaScript](dia-01-variaveis/) | Variáveis, tipos de dados, reatribuição e console.log | Concluída e revisada |
+| [Aula 01 — Python](python/01-variaveis-e-operacoes/) | Variáveis, subtração e saída com `print` | Em andamento |
 | [Elo Solidário](https://github.com/Kronos-DV/elo-solidario) | Projeto acadêmico de Desenvolvimento Web Frontend: HTML5, com CSS e JavaScript | Publicado em repositório próprio; fundamentos em estudo |
 
 ## Organização
